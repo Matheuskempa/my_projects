@@ -6,5 +6,10 @@ For this project Python and Jupyter Nootebook is needed.
 Provide a brief basic introduction in all the data mining process and modeling it to predict somenthing, that basically consists on picking a dataset and get some insights with it.
 # File Descriptions
 listings.csv = Datafile from kaggle airbnb base
+calendar.csv = Datafile from kaggle airbnb base
+reviews.csv = Datafile from kaggle airbnb base
+post.ipynb = Post in Jupyter Notebook
+post.html = Post in Html
+
 # Licensing, Authors, Acknowledgements, etc.
 Kaggle Aibnb DataBase
