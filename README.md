@@ -1,2 +1,10 @@
-# my_projects
-It is and repository to include all my individuals projects
+# AIRBNB_PROJECT
+It is and repository to include my individual project of AIRBNB case. 
+# Installations
+For this project Python and Jupyter Nootebook is needed.
+# Project
+Provide a brief basic introduction in all the data mining process and modeling it to predict somenthing, that basically consists on picking a dataset and get some insights with it.
+# File Descriptions
+listings.csv = Datafile from kaggle airbnb base
+# Licensing, Authors, Acknowledgements, etc.
+Kaggle Aibnb DataBase
