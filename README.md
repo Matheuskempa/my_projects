@@ -1,5 +1,5 @@
-# AIRBNB_PROJECT
-It is and repository to include my individual project of AIRBNB case. 
+# UDACITY PROJECTS
+It is and repository to include my individual project of udacity program. 
 # Installations
 For this project Python and Jupyter Nootebook is needed.
 # Project
