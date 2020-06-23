@@ -48,4 +48,6 @@ projeto_2 paste =  Disaster_Reponse_Pipeline_Project
    3. Run the web app
     * Run the following command in the app directory: python run.py
 
+### Licensing, Authors, Acknowledgements, etc.
 
+Udacity Course
