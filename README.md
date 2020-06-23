@@ -6,7 +6,8 @@ For this project Python and Jupyter Nootebook is needed.
 Provide a brief basic introduction in all the data mining process and modeling it to predict somenthing, that basically consists on picking a dataset and get some insights with it.
 # File Descriptions
 
-Post Blog - CRISP DM
+# Projects
+## Post Blog - CRISP DM
 
 listings.csv = Datafile from kaggle airbnb base
 calendar.csv = Datafile from kaggle airbnb base
@@ -14,8 +15,12 @@ reviews.csv = Datafile from kaggle airbnb base
 post.ipynb = Code in Jupyter Notebook
 post.html = Code in Html
 
+## Licensing, Authors, Acknowledgements, etc.
+Kaggle Aibnb DataBase
 -----------------------------------------------------------
-Disaster_Reponse_Pipeline_Project
+## Disaster_Reponse_Pipeline_Project
+
+### Files
 
 projeto_2 paste =  Disaster_Reponse_Pipeline_Project
 
@@ -28,7 +33,7 @@ projeto_2 paste =  Disaster_Reponse_Pipeline_Project
           categories.csv = file with the categories of the message
           messages.csv = file with messages
           
-   # Running
+   ### Running Disaster Reponse Pipeline Project 
 
    1. ETL process
     * Run the following command: python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
@@ -39,5 +44,4 @@ projeto_2 paste =  Disaster_Reponse_Pipeline_Project
    3. Run the web app
     * Run the following command in the app directory: python run.py
 
-# Licensing, Authors, Acknowledgements, etc.
-Kaggle Aibnb DataBase
+
